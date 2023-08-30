@@ -1,0 +1,14 @@
+/*
+Theme Name:     Antiqmart
+Theme URI:      
+Description:    Storefront child theme.
+Author:         Me
+Author URI:     
+Template:       storefront
+Version:        0.1.0
+*/
+
+
+li .product .type-product {
+    border: 1px solid gray;
+}
