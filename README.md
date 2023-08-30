@@ -1,1 +1,2 @@
-# antiqmart - WooCommerce Storefront Chile Theme 
+# antiqmart - WooCommerce Storefront Child Theme 
+
